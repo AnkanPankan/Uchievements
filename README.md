@@ -1,5 +1,5 @@
 # Uchievements
-<img width="2560" height="1440" alt="UchievementsTXT" src="https://github.com/user-attachments/assets/3c08a81e-201f-4565-8367-548b841dccb5" />
+<img width="2560" height="1440" alt="UchievementsTXT" src="https://github.com/user-attachments/assets/4493b1cd-b59e-4766-9f7c-cb164f2d313a" />
 
 Uchievements is an in-progress plugin/app for the Wii U console which adds achievements to the wii u games. 
 
