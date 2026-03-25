@@ -5,8 +5,20 @@
 # Uchievements
 A Wii U achievement plugin for U.
 
-Uchievements is an achievement plugin (similiar to RetroAchievements) for Wii U, 
+Uchievements is an open-source achievement plugin (similiary to RetroAchievements) for Wii U. Made for the console instead of for an emulator, Uchievements adds trophies/achievements to Wii U games (with the support of the community) to give your games that extra spice and playtime they deserve.
+
+# Installation
+
+There are currently no available versions.
+
+## Plans
+
+- Trophy levels connected to your nintendo network (or pretendo).
+- Achievements for all Wii U games.
+- Leaderboards.
+- Badges.
+- Community availability.
 
 ## Status
 
-(IN-PROGRESS)
+Were currently in-development without any planned release date.
