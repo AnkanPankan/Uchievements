@@ -3,9 +3,10 @@
 
 
 # Uchievements
-Uchievements is an in-progress plugin/app for the Wii U console which adds achievements to the console. 
+A Wii U achievement plugin for U.
 
-Just like RetroAchievements, Uchievements tries to replicate Achievements for older games but ON the console instead of on an emulator.
-This lets local users of the Wii U also have the benefits of achievements.
+Uchievements is an achievement plugin (similiar to RetroAchievements) for Wii U, 
+
+## Status
 
 (IN-PROGRESS)
